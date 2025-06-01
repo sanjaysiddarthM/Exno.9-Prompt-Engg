@@ -34,9 +34,3 @@ o	Responsiveness (how well the video matches the prompt)
 
 
 
-
-
-
-
-# Result:
-
